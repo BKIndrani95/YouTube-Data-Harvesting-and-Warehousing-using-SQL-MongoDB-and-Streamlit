@@ -3,7 +3,7 @@ This Python based tool empowers users to harvest valuable data from YouTube, ext
 
 #python  #YoutubeAPI  #mongodb  #Mysql  #streamlit  
 
-Features: 
+Features:  
 YouTube Data Harvesting: Utilize the YouTube API to gather information on videos, channels, and comments.
 Data Warehousing: Store harvested data efficiently using MongoDB and MySQL for relational data management.
 Streamlit Dashboard: Create an interactive dashboard with Streamlit for easy data visualization, User Interface and exploration.
