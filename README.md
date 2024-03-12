@@ -9,7 +9,7 @@ Data Warehousing: Store harvested data efficiently using MongoDB and MySQL for r
 Streamlit Dashboard: Create an interactive dashboard with Streamlit for easy data visualization, User Interface and exploration.
 
 Technologies Used-->
-Backend: Python, Flask
+Backend: Python
 Databases: MongoDB, MySQL
 Web Framework: Streamlit
 API Integration: YouTube API
